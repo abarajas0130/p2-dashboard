@@ -3,3 +3,11 @@
 .profile {
 	background: orange;
 }
+
+
+/* balance */
+
+.balance h1 {
+	color: orange;
+	font-size: 3em;
+}
